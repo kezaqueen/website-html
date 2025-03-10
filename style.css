@@ -1,0 +1,116 @@
+header{
+    text-align: center;
+    color: #333;
+    display: flex;
+    
+}
+nav{
+    justify-content: center;
+}
+nav ul{
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 510px;
+    margin-top: 40px;
+}
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+    
+}nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: #333;
+    text-decoration: none;
+}
+body{
+    background-size: 100%;
+    margin-left: 100px;
+    height: 200%;
+    background-repeat: no-repeat;
+}
+.icons{
+    display: inline;
+    margin-top: 40px;
+    margin-left: 400px;
+    padding-inline: 30px;
+    color: white;
+}
+#h2{
+    font-size: 50px;
+}
+#home-container{
+    border-style: dotted;
+}
+#image1{
+    margin-left: 899px;
+    display: flex;
+    margin-top: -650px;
+
+}
+#image1type{
+    border-radius: 4%;
+    width: 80%;
+}
+#startnowbutton{
+    border-radius: 30px;
+    width: 140px;
+    height: 60px;
+    background-color: #333;
+    color: white;
+    border: none;
+}
+.fa-play{
+    border: solid rgb(214, 209, 209);
+    background-color: rgb(214, 209, 209);
+    border-radius: 10px;
+    width: 30px;
+    height: 20px;
+    align-items: center;
+}
+.numbers{
+    display: flex;
+    gap: 25px;
+}
+#letter{
+    font-size: 20px;
+}
+#num{
+    font-size: 40px;
+}
+.second-container{
+    display: flex;
+    gap: 100px;
+    justify-content: space-between;
+    margin: 30px;
+    padding: 40px;
+}
+#flip-button{
+    .fa-play{
+    background-color: white;
+    border: none;
+    }
+}
+.flip-play{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.second-images{
+    display: flex;
+    justify-content: space-between;
+}
+.Third-session{
+    text-align: center;
+}
+#homedeco{
+    width: 30%;
+}
+.thirdsestion{
+    display: flex;
+}
